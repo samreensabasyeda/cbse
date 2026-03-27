@@ -223,5 +223,3 @@ Airflow NFS server
 Private subnets
 Security groups
 
-
-
